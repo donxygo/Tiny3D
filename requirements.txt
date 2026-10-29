@@ -1,0 +1,5 @@
+# Install a CUDA-compatible PyTorch build and FaithC/Atom3d separately.
+torch>=2.5
+numpy
+trimesh
+open3d
